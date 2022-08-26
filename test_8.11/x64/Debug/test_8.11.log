@@ -1,0 +1,3 @@
+﻿  my_string.c
+E:\project\c_project\test_8.11\my_string.c(22): warning C4716: “my_mommove”: 必须返回一个值
+  test_8.11.vcxproj -> E:\project\c_project\test_8.11\x64\Debug\test_8.11.exe
