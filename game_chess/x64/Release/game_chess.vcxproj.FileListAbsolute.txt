@@ -1,0 +1,2 @@
+E:\project\game_chess\x64\Release\game_chess.exe
+E:\project\c_project\game_chess\x64\Release\game_chess.exe
